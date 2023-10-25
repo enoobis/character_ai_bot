@@ -1,0 +1,3 @@
+characterai==0.8.0
+tls-client==0.2.2
+websockets==11.0.3
