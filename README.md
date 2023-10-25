@@ -25,7 +25,7 @@ Before using Character AI Bot, you need to set up your environment and obtain AP
    export CHAR=your-character-identifier
    ```
 
-#Installation
+# Installation
 
 1. Clone the repository to your local machine:
   ```shell
@@ -36,7 +36,7 @@ Before using Character AI Bot, you need to set up your environment and obtain AP
    ```shell
    pip install -r requirements.txt
    ```
-#Usage
+# Usage
 
 To use Character AI Bot, follow these steps:
 
@@ -47,9 +47,9 @@ python character_ai_bot.py
 2. The bot will prompt you for input. You can enter your message, and the bot will send it to the AI character and display the response.
 3. Interact with the bot by providing input and receiving responses.
 
-#Examples
+# Examples
  
-```shell
+```
 You: Hello, how are you?
 AI Bot: I'm doing well, thank you! How can I assist you today?
 
