@@ -18,7 +18,7 @@ Character AI Bot is a Python application that interacts with the CharacterAI API
 Before using Character AI Bot, you need to set up your environment and obtain API credentials:
 
 1. You must have Python 3.x installed on your machine.
-2. You need to sign up for an API key from CharacterAI and store it as an environment variable. You can find more information on how to obtain the API key in the CharacterAI documentation.
+2. You need to sign up for an API key from CharacterAI and store it as an environment variable. You can find more information on how to obtain the API key in the (CharacterAI documentation)[https://github.com/kramcat/CharacterAI].
 
    ```shell
    export CLIENT=your-api-key
